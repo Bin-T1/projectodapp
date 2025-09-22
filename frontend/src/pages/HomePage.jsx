@@ -153,6 +153,7 @@ const HomePage = () => {
           activeTasksCount={activeTaskCount}
           completedTasksCount={completeTaskCount}
         />
+        <p>This product belongs to Bee Solution and was made by Minh Chien</p>
 
       </div> 
     </div>
